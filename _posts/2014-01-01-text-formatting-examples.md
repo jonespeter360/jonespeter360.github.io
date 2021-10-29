@@ -131,6 +131,8 @@ $$
 
 $$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j} $$
 
+$$ E = mc^2 $$
+
 ## Tables
 
 Title 1               | Title 2               | Title 3               | Title 4
