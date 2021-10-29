@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About
 permalink: /about
 ---
 
@@ -15,7 +15,7 @@ I'm just your average aerospace engineer (meaning that I'm crazy
 for all things space, this is my [favorite nebula](https://en.wikipedia.org/wiki/Carina_Nebula).
 I'm a great lover of science, and a great lover of Jesus, though I make no pretense
 to be an expert in either. I love science, because "by nature all men have a
-desire to know," \([two guesses who](https://en.wikipedia.org/wiki/Aristotle))\). 
+desire to know," \([two guesses who](https://en.wikipedia.org/wiki/Aristotle)\). 
 But I write as a lover of it, not as a doctor of it (though I might get that 
 someday too). And pretending to be an expert in Jesus would be the height
 of arrogance: who could pin down the living God? [Who has defined Him and
